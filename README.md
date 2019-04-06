@@ -14,7 +14,7 @@
 
 ## Live Demo
 
-https://glacial.gitlab.io/2010-tv-verdes-mares-cariri/
+https://marceloglacial.github.io/2010-tv-verdes-mares-cariri/front-end/
 
 
 ## Screnshot
